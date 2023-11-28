@@ -14,15 +14,20 @@ O código utiliza a biblioteca Swing, que é uma parte padrão da API Java.
 Execução:
 
 Compile e execute o projeto utilizando uma IDE Java, como o IntelliJ IDEA ou Eclipse, ou utilize os comandos do terminal.
-Funcionalidades:
+
+# Funcionalidades:
 
 Adicione livros à biblioteca, fornecendo título, ISBN, preço e escolhendo ou adicionando autores.
+Adicione autores forenecendo, nome, endereço, idade, bibliografia.
 Liste todos os livros e autores disponíveis na biblioteca.
 Remova livros da biblioteca.
 Notas:
 
 Certifique-se de inserir corretamente os dados solicitados, especialmente números em campos designados para valores numéricos.
 A interface gráfica facilita a interação com o sistema.
+
+# Link do video
+https://www.youtube.com/watch?v=P_Fl295140A
 
 # Autores:
 Luiz Felipe Bonatti
